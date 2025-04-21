@@ -31,7 +31,13 @@ Live preview: *[Coming Soon]*
 - **Spoonacular API** (or your own recipe API)
 
 ---
+🙌 Acknowledgements
+📷 Unsplash for the background image
 
-## 📁 Project Structure
+🍽️ Spoonacular for the recipe API
 
-/src /api api.js // API calls /components Navbar.jsx // App navigation /context AppContext.jsx // Context API provider /pages home.jsx // Search & results page RecipeDetails.jsx // Single recipe detail page Favorites.jsx // User's favorite recipes AppRoutes.jsx // All app routes App.css // Global styles & animations main.jsx // React DOM mount point
+🎨 Google Fonts for the Orbitron font
+
+✨ Final Notes
+Made with ❤️, custom CSS animations, and a sprinkle of good vibes ✨
+Fork it, star it, or contribute anytime 🚀
