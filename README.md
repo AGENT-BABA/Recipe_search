@@ -1,12 +1,36 @@
-# React + Vite
+# 🍽️ React Recipe Book App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A stylish, animated Recipe Book web application built with **React**, **React Router**, and **Context API**, styled with custom **CSS animations** and a lively modern UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Demo  
+Live preview: *[Coming Soon]*
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- 🔍 Search for recipes via an API (Spoonacular API integration recommended)
+- 📃 View recipe details including image and summary
+- 💖 Add recipes to your favorites
+- 🖥️ Smooth animated UI with custom transitions
+- 🌈 Responsive design (2 recipes per row on desktop, 1 per row on mobile)
+- 🎨 Funky `Orbitron` font styling with vibrant gradient backgrounds
+- ⚡ Animated navbar, cards, and buttons with hover and pulse effects
+
+---
+
+## 📦 Tech Stack
+
+- **React**
+- **React Router**
+- **Context API**
+- **Custom CSS (with animations)**
+- **JavaScript (ES6)**
+- **Spoonacular API** (or your own recipe API)
+
+---
+
+## 📁 Project Structure
+
